@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dzikir_Digital</string>
+    <string name="_dzikir_pagi">Dzikir Pagi</string>
+
+    <string name="keutamaan_dzikiir">" Wahai orang-orang yang beriman! Ingatlah kepada Allâh, dengan mengingat (nama-Nya) sebanyak-banyaknya, dan bertasbihlah kepada-Nya pada waktu pagi dan petang.” [al-Ahzâb/33:41-42]
+
+
+
+</string>
+    <string name="dalil_dzikir">"Hai orang-orang yang beriman, berzikirlah (dengan menyebut nama) Allah, dzikir yang sebanyak-banyaknya. Dan bertasbihlah kepada-Nya di waktu pagi dan petang"</string>
+    <string name="_dzikirpagi">DzikirPagi</string>
+    <string name="_title">Title</string>
+</resources>
